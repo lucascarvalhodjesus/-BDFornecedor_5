@@ -8,10 +8,6 @@ import java.sql.Date;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-/**
- *
- * @author carlos
- */
 public class ManipulaData
 {
     // Formato esperado na entrada: dd/MM/yyyy
