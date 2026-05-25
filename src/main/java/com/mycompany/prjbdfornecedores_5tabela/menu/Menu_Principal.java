@@ -6,10 +6,6 @@ package com.mycompany.prjbdfornecedores_5tabela.menu;
 
 import java.util.Scanner;
 
-/**
- *
- * @author carlos
- */
 public class Menu_Principal {
     public static void menuPrincipal()
     {
