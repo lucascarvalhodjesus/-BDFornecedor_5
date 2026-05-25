@@ -4,10 +4,6 @@
  */
 package com.mycompany.prjbdfornecedores_5tabela.objetos;
 
-/**
- *
- * @author carlos
- */
 public class Produto {
     private int id_produto;
     private String nome;
