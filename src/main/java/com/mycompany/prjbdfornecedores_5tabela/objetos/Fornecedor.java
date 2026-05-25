@@ -6,10 +6,6 @@ package com.mycompany.prjbdfornecedores_5tabela.objetos;
 
 import java.util.List;
 
-/**
- *
- * @author carlos
- */
 public class Fornecedor {
     private int id_fornecedor;
     private String nome;
