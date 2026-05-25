@@ -8,10 +8,6 @@ import com.mycompany.prjbdfornecedores_5tabela.classes_bd.Produto_BD;
 import com.mycompany.prjbdfornecedores_5tabela.objetos.Produto;
 import java.util.List;
 
-/**
- *
- * @author user
- */
 public class Produto_RN
 {
     Produto_BD p_BD;
