@@ -4,10 +4,6 @@
  */
 package com.mycompany.prjbdfornecedores_5tabela.objetos;
 
-/**
- *
- * @author carlos
- */
 public class Contato {
     private int id_contato;
     private String tipo_contato;
