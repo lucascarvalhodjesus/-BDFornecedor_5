@@ -8,10 +8,6 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
- *
- * @author carlos
- */
 public class Conexao {
             final private String driver  = "com.mysql.cj.jdbc.Driver";
     final private String url     = "jdbc:mysql://localhost:3306/estoque";
