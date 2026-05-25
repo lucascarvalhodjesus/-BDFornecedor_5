@@ -16,7 +16,7 @@ public class Conexao {
             final private String driver  = "com.mysql.cj.jdbc.Driver";
     final private String url     = "jdbc:mysql://localhost:3306/estoque";
     final private String usuario = "root";
-    final private String senha   = "iftm";
+    final private String senha   = "";
 
     public Connection conectar() {
         Connection conn = null;
