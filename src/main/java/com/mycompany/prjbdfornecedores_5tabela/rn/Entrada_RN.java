@@ -15,10 +15,6 @@ import com.mycompany.prjbdfornecedores_5tabela.objetos.Entrada_Produto;
 import com.mycompany.prjbdfornecedores_5tabela.objetos.Entrada_Produto;
 import com.mycompany.prjbdfornecedores_5tabela.objetos.Produto;
 
-/**
- *
- * @author user
- */
 public class Entrada_RN
 {
     Entrada_BD e_BD;
