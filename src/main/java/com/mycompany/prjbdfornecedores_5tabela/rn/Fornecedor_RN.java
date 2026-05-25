@@ -10,10 +10,6 @@ import com.mycompany.prjbdfornecedores_5tabela.objetos.Contato;
 import com.mycompany.prjbdfornecedores_5tabela.objetos.Fornecedor;
 import java.util.List;
 
-/**
- *
- * @author clc
- */
 public class Fornecedor_RN
 {
     Fornecedor_BD f_BD;
